@@ -21,4 +21,4 @@ This is just a normal blog where the user can "send" messages to the owner. What
 
 ![Messages Section](https://github.com/GamertodArk/second-laravel-project/blob/master/project-screenshots/Screenshot_2018-09-26%20Acme%20(2).png "Messages Section")
 
-You can see these screenshots in my (Behance)(https://www.behance.net/gallery/70702423/My-second-Laravel-Project "Second Laravel Project - Behance") and (Imgur)(https://imgur.com/a/JcorCGz "Second Laravel Project - Imgur") accounts
+You can see these screenshots in my [Behance](https://www.behance.net/gallery/70702423/My-second-Laravel-Project "Second Laravel Project - Behance") and [Imgur](https://imgur.com/a/JcorCGz "Second Laravel Project - Imgur") accounts
